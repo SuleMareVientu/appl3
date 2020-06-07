@@ -7,7 +7,7 @@ Maintainer: appl3
 Author: appl3
 Section: Theme
 Depends: 
-Filename: debs/Test
+Filename: debs/Test.deb
 Size: 1
 MD5sum: abbaf2f9ccdf73736369c4cd03291944
 SHA1: e4134e208ab0c68f87d61dc89e7502a7c56e2934
