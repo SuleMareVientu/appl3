@@ -1,0 +1,14 @@
+Package: Test
+Name: Test
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Test Package
+Maintainer: appl3
+Author: appl3
+Section: Theme
+Depends: 
+Filename: debs/Test
+Size: 1
+MD5sum: abbaf2f9ccdf73736369c4cd03291944
+SHA1: e4134e208ab0c68f87d61dc89e7502a7c56e2934
+SHA256: 80f315b6f2b4383613427054d672a3559753344f4bc0f1c7ff64229732e1fc73
