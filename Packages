@@ -2,12 +2,12 @@ Package: iOS 6 Theme
 Name: iOS 6 Theme
 Version: 1.1
 Architecture: iphoneos-arm
-Description: Test Package
+Description: iOs 6 Theme for free!
 Maintainer: appl3
 Author: appl3
 Section: Theme
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: debs/Test.deb
+Filename: debs/iOS_6_Theme.deb
 Size: 9422836
 MD5sum: B8A384742ACBA8E764C469275DD610D1
 SHA1: 450103458D65BC4C7D3063063F6B861709292A39
