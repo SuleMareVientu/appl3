@@ -1,14 +1,14 @@
 Package: com.ThemeiOS6.Hupy
-Name: iOS 6 Theme
 Version: 0.1
-Architecture: iphoneos-arm
-Description: iOS 6 Theme, my first theme!
-Maintainer: SuleMareVientu
-Author: SuleMareVientu
-Section: Theme
 Depends: com.anemonetheming.anemone | com.spark.snowboard, firmware (>=6.0)
+Architecture: iphoneos-arm
+Maintainer: SuleMareVientu
 Filename: debs/iOS_6_Theme.deb
 Size: 1115832
 MD5sum: 6b12510cf3a88385c4c8945ef1aa18d8
 SHA1: a1c0cd62777ff5bfb880914e48c1f563e66cc2c5
 SHA256: ae58ac9e483b6f548808bb68d043f974607cdcc06da6097ed7712030d95cee56
+Section: Themes
+Description: iOS 6 Theme, my first theme!
+Author: SuleMareVientu
+Name: iOS 6 Theme
