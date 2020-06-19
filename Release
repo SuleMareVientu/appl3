@@ -1,8 +1,9 @@
 Origin: appl3
 Label: appl3
 Suite: stable
-Version: 1.0.1
-Codename: ios
+Version: 1.0
+Codename: appl3
 Architectures: iphoneos-arm
 Components: main
-Description: SuleMareVientu Repo
+Description: appl3
+MD5Sum:

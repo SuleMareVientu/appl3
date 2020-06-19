@@ -1,4 +1,4 @@
-Package: iOS 6 Theme
+Package: com.ThemeiOS6.Hupy
 Name: iOS 6 Theme
 Version: 0.1
 Architecture: iphoneos-arm
@@ -6,7 +6,7 @@ Description: iOS 6 Theme for free!
 Maintainer: SuleMareVientu
 Author: SuleMareVientu
 Section: Theme
-Depends: com.anemonetheming.anemone | com.spark.snowboard
+Depends: com.anemonetheming.anemone | com.spark.snowboard, firmware (>=6.0)
 Filename: debs/iOS_6_Theme.deb
 Size: 1.118.208
 MD5sum: 6B12510CF3A88385C4C8945EF1AA18D8
